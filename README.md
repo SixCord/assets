@@ -1,1 +1,1 @@
-# assets
+# SixCord - Content Delivery Network.
